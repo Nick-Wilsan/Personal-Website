@@ -1,6 +1,6 @@
 # Nick Wilsan - Personal Portfolio Website
 
-![Website Preview](https://via.placeholder.com/800x400?text=Website+Preview+Here)
+![Website Preview](assets/ScreenShoot.jpg)
 
 A modern, responsive personal portfolio website built using pure HTML and CSS. This website serves as an online portfolio to showcase my skills, projects, and services as a web developer.
 
